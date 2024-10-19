@@ -33,7 +33,7 @@ DELETE
 
 ![image](https://github.com/user-attachments/assets/236a9238-8b01-499a-8ee3-e24d4370d005)
 
-##Клиент
+## Клиент
 
 Клиент разработан на основе vue.
 Интерфейс клиента
